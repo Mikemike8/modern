@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Abby.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Abby.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Abby.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Abby.props",
+      "PackagePath": "build\\Abby.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Abby.props",
+      "PackagePath": "buildMultiTargeting\\Abby.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Abby.props",
+      "PackagePath": "buildTransitive\\Abby.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
