@@ -42,7 +42,7 @@ namespace AbbyWeb.Pages.Customer.Home
             if (ModelState.IsValid)
             {
                 ShoppingCart shoppingCartFromDb = _unitOfWork.ShoppingCart.GetFirstOrDefault(
-                   filter: u => u.ApplicationUserId == ShoppingCart.ApplicationUserId &&
+                filter: u => u.ApplicationUserId == ShoppingCart.ApplicationUserId &&
                     u.MenuItemId == ShoppingCart.MenuItemId);
 
                 if (shoppingCartFromDb == null)
