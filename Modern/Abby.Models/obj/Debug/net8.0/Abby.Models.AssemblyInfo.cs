@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Abby.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e19d857963b135ae86023e97ccee6a21bb2ba1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0e2fb73ed0560addc340adc0589fce94b3ff85b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Abby.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Abby.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fo3JErD/+XbtsCRvGnucpRrAUbItU9eVkOLaGUD4E1M=",
+  "Hash": "bNrnlquDKFeboDuvFxBajiuSYGZ71fAcyrgv8DtZisU=",
   "Source": "Abby",
   "BasePath": "_content/Abby",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Abby\\wwwroot",
       "Source": "Abby",
-      "ContentRoot": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\",
       "BasePath": "_content/Abby",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Abby.styles.css",
+      "Identity": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Abby.styles.css",
       "SourceId": "Abby",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Abby",
       "RelativePath": "Abby.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Abby.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Abby.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Abby.bundle.scp.css",
+      "Identity": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Abby.bundle.scp.css",
       "SourceId": "Abby",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Abby",
       "RelativePath": "Abby.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Abby.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Abby.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\app.css",
       "SourceId": "Abby",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\",
       "BasePath": "_content/Abby",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Abby",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\",
       "BasePath": "_content/Abby",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Abby",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\",
       "BasePath": "_content/Abby",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\favicon.png",
       "SourceId": "Abby",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\",
       "BasePath": "_content/Abby",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

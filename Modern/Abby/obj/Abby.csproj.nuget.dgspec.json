@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\Abby.csproj": {}
+    "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\Abby.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj": {
+    "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj",
         "projectName": "Abby.DataAccess",
-        "projectPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Student-8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Student-38\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student-8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student-38\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Models\\Abby.Models.csproj": {
-                "projectPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Models\\Abby.Models.csproj"
+              "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Models\\Abby.Models.csproj": {
+                "projectPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Models\\Abby.Models.csproj"
               },
-              "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Utility\\Abby.Utility.csproj": {
-                "projectPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Utility\\Abby.Utility.csproj"
+              "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Utility\\Abby.Utility.csproj": {
+                "projectPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Utility\\Abby.Utility.csproj"
               }
             }
           }
@@ -87,21 +87,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Models\\Abby.Models.csproj": {
+    "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Models\\Abby.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Models\\Abby.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Models\\Abby.Models.csproj",
         "projectName": "Abby.Models",
-        "projectPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Models\\Abby.Models.csproj",
-        "packagesPath": "C:\\Users\\Student-8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Models\\obj\\",
+        "projectPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Models\\Abby.Models.csproj",
+        "packagesPath": "C:\\Users\\Student-38\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student-8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student-38\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,21 +157,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Utility\\Abby.Utility.csproj": {
+    "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Utility\\Abby.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Utility\\Abby.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Utility\\Abby.Utility.csproj",
         "projectName": "Abby.Utility",
-        "projectPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Utility\\Abby.Utility.csproj",
-        "packagesPath": "C:\\Users\\Student-8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Utility\\obj\\",
+        "projectPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Utility\\Abby.Utility.csproj",
+        "packagesPath": "C:\\Users\\Student-38\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student-8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student-38\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,21 +235,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\Abby.csproj": {
+    "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\Abby.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\Abby.csproj",
+        "projectUniqueName": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\Abby.csproj",
         "projectName": "Abby",
-        "projectPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\Abby.csproj",
-        "packagesPath": "C:\\Users\\Student-8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\obj\\",
+        "projectPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\Abby.csproj",
+        "packagesPath": "C:\\Users\\Student-38\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Student-8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student-38\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -263,14 +263,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj"
+              "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.DataAccess\\Abby.DataAccess.csproj"
               },
-              "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Models\\Abby.Models.csproj": {
-                "projectPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Models\\Abby.Models.csproj"
+              "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Models\\Abby.Models.csproj": {
+                "projectPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Models\\Abby.Models.csproj"
               },
-              "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Utility\\Abby.Utility.csproj": {
-                "projectPath": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby.Utility\\Abby.Utility.csproj"
+              "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Utility\\Abby.Utility.csproj": {
+                "projectPath": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby.Utility\\Abby.Utility.csproj"
               }
             }
           }
@@ -292,19 +292,19 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.0, )"
             },
             "Stripe.net": {
               "target": "Package",
@@ -330,7 +330,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Abby.bundle.scp.css",
+      "Id": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Abby.bundle.scp.css",
       "PackagePath": "staticwebassets\\Abby.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Student-8\\Documents\\Dev\\week21-day01-Calebssu\\Modern\\Abby\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Student-38\\Documents\\GitHub\\modern\\Modern\\Abby\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
